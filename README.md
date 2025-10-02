@@ -19,9 +19,11 @@
                                                   ▒▒▒▒▒▒   ▒▒▒▒▒▒   ▒▒▒▒▒▒        
 
                                       
-                                          ∨∨
+
 ```
   
 <div align="center"> 
-  [![Static Badge](https://img.shields.io/badge/click-me-%23DCBDFB?style=plastic&color=%23DCBDFB)](https://dim-gggl.github.io/portfolio)
+  <a href="https://dim-gggl.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/click-me-%23DCBDFB?style=plastic&color=%23DCBDFB"/>
+  </a>  
 </div>
