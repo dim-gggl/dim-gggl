@@ -19,3 +19,39 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/click-me-%23ef0041?style=plastic">
   </a>
 </div>
+
+```python
+>>> for tech in technology:
+...     if tech in dim_gggl_stack:
+...         print(tech)
+```
+
+```python
+Python
+Django
+DjangoRestFramework
+Flask
+PostgreSQL
+MySQL
+SQLite
+SQLAlchemy
+Javascript
+Html
+Css
+Bootstrap
+Tailwaind
+Docker
+Git
+GitHub
+GitHubActions
+Pytest
+Sentry
+Locust
+Coverage
+Poetry
+Uv
+OpenAI
+Codex
+Claude Code
+Prompt Engineering
+```
