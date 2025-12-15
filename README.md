@@ -26,7 +26,7 @@
 ...         print(tech)
 ```
 
-```python
+```
 Python
 Django
 DjangoRestFramework
