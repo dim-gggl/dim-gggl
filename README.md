@@ -31,6 +31,7 @@ Python
 Django
 DjangoRestFramework
 Flask
+FastAPI
 PostgreSQL
 MySQL
 SQLite
@@ -39,7 +40,7 @@ Javascript
 Html
 Css
 Bootstrap
-Tailwaind
+Tailwind CSS
 Docker
 Git
 GitHub
@@ -49,7 +50,8 @@ Sentry
 Locust
 Coverage
 Poetry
-Uv
+uv
+Cursor
 OpenAI
 Codex
 Claude Code
